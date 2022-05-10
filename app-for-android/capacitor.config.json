@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "app-for-android",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
